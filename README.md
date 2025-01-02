@@ -1,4 +1,4 @@
-# Machine_Learning
+# Text Analytics for Business Insights
 
 The project analyzes customer reviews from the weightloss.csv dataset to classify sentiments (positive or negative) using various models like Logistic Regression, Naive Bayes, and Deep Learning. Logistic Regression emerged as the most robust model, offering a balance between accuracy and generalization.
 
